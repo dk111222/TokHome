@@ -1,0 +1,23 @@
+[
+    {
+        "image": "https://via.placeholder.com/350x150",
+        "title": "App 1",
+        "description": "这是 App 1 的介绍。",
+        "downloadUrl": "#",
+        "googlePlayUrl": "#"
+    },
+    {
+        "image": "https://via.placeholder.com/350x150",
+        "title": "App 2",
+        "description": "这是 App 2 的介绍。",
+        "downloadUrl": "#",
+        "googlePlayUrl": "#"
+    },
+    {
+        "image": "https://via.placeholder.com/350x150",
+        "title": "App 3",
+        "description": "这是 App 3 的介绍。",
+        "downloadUrl": "#",
+        "googlePlayUrl": "#"
+    }
+]
